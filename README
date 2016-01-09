@@ -5,6 +5,7 @@ LSMLIB
 Software Dependencies
 =====================
 * SAMRAI (3.8.0)
+* VM386 PlagSystem
 
 
 More Information
